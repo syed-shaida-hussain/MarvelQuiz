@@ -39,7 +39,7 @@ function play(question,answer)
     answer : "c"},
     {question : "8.AVENGERS: AGE OF ULTRON: What word does Tony utter that makes Steve say, Language? \n a) crap \n b) shit c) idiot \n",
     answer : "b"},
-    {question : "9. THOR: RAGNAROK: What is Valkyrie's scrapper number? \n a) 3 \n b) 162 \n c) 142 \n ",
+    {question : "9. THOR: RAGNAROK What is Valkyrie's scrapper number? \n a) 3 \n b) 162 \n c) 142 \n ",
     answer : "b"},
     {question : "10.BLACK PANTHER: What do Killmonger and Klaue steal from the Museum of Great Britain? \n a) Just vibranium \n b) vibranium and a mask \n c) A map of wakanda \n",
     answer : "b"},
